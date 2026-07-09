@@ -1,1 +1,15 @@
-{"theme":"dark","updated":"2026-07-09","homeMode":"emoji","heroImage":"images/pixiv_hd_1.jpg","linkBilibili":"","linkTwitter":"","linkPixiv":"","profileName":"","profileNameEn":"","profileTagline":"","profileBday":"","profileRace":"","profileTrait":"","profileLang":"","profileActivity":"","profileDesc":"","profileAvatar":"","galleryCols":3,"galleryGap":10,"emojiCols":12,"emojiSpeed":30,"emojiOpacity":0.6,"emojiDirection":"vertical"}
+﻿{
+    "intro":  "猫猫画师兼职虚拟主播，你的赛博损友",
+    "social":  {
+                   "live":  "https://live.bilibili.com/3790472",
+                   "pixiv":  "https://www.pixiv.net/users/36966416",
+                   "bilibili":  "https://space.bilibili.com/86471108",
+                   "twitter":  "https://x.com/Ayatsuki_Nora"
+               },
+    "lastUpdate":  "2026-07-09",
+    "tagline":  "有的时候就是想发发涩图",
+    "galleryOrder":  [
+
+                     ],
+    "theme":  "dark"
+}
