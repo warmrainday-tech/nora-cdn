@@ -1,0 +1,8 @@
+name = "nora-cdn"
+main = "src/worker.js"
+compatibility_date = "2025-05-18"
+
+[vars]
+GH_REPO = "warmrainday-tech/nora-cdn"
+
+# GH_TOKEN 应通过 wrangler secret put GH_TOKEN 设置，不要写在此文件中
