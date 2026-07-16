@@ -1,15 +1,124 @@
-﻿{
-    "intro":  "猫猫画师兼职虚拟主播，你的赛博损友",
-    "social":  {
-                   "live":  "https://live.bilibili.com/3790472",
-                   "pixiv":  "https://www.pixiv.net/users/36966416",
-                   "bilibili":  "https://space.bilibili.com/86471108",
-                   "twitter":  "https://x.com/Ayatsuki_Nora"
-               },
-    "lastUpdate":  "2026-07-09",
-    "tagline":  "有的时候就是想发发涩图",
-    "galleryOrder":  [
-
-                     ],
-    "theme":  "dark"
+{
+  "site": {
+    "title": "???? Ayatsuki Nora",
+    "description": "???? - ??????????,??????",
+    "avatar": "images/avatar.jpg",
+    "favicon": "images/avatar.jpg"
+  },
+  "hero": {
+    "nameCn": "????",
+    "nameJp": "???? ??",
+    "nameEn": "Ayatsuki Nora",
+    "tagline": "???? � ???? � ??????",
+    "slogan": "???????????",
+    "birthday": "04-21",
+    "badges": [
+      { "icon": "??", "text": "B? 2.1???" },
+      { "icon": "??", "text": "Pixiv 213??" },
+      { "icon": "??", "text": "????" }
+    ]
+  },
+  "about": {
+    "quote": "???????????",
+    "paragraphs": [
+      "????(???? ?? / Ayatsuki Nora),????\"??????\"???????????4?21??,? B?? Twitter ??,???????????????",
+      "?????,?????????????????;??????,????????????,??\"??\"????,????????"
+    ],
+    "stats": [
+      { "num": "21K+", "label": "B???" },
+      { "num": "04/21", "label": "??" },
+      { "num": "60", "label": "???" },
+      { "num": "41+", "label": "????" }
+    ],
+    "image": "images/pixiv_hd_1.jpg"
+  },
+  "sections": [
+    {
+      "id": "profile",
+      "no": "01",
+      "title": "????",
+      "sub": "Profile",
+      "type": "cards",
+      "cards": [
+        { "icon": "??", "label": "??", "value": "4?21?" },
+        { "icon": "??", "label": "??", "value": "???? / ????" },
+        { "icon": "??", "label": "???", "value": "????" },
+        { "icon": "??", "label": "??", "value": "Bilibili / Pixiv / X" }
+      ]
+    },
+    {
+      "id": "gallery",
+      "no": "02",
+      "title": "????",
+      "sub": "Gallery",
+      "type": "gallery",
+      "items": [
+        { "path": "images/pixiv_hd_1.jpg", "caption": "?? 01" },
+        { "path": "images/pixiv_hd_2.jpg", "caption": "?? 02" },
+        { "path": "images/pixiv_hd_3.jpg", "caption": "?? 03" },
+        { "path": "images/pixiv_hd_4.jpg", "caption": "?? 04" },
+        { "path": "images/pixiv_hd_5.jpg", "caption": "?? 05" },
+        { "path": "images/pixiv_hd_6.jpg", "caption": "?? 06" },
+        { "path": "images/pixiv_hd_7.jpg", "caption": "?? 07" },
+        { "path": "images/pixiv_hd_9.jpg", "caption": "?? 08" },
+        { "path": "images/pixiv_hd_10.jpg", "caption": "?? 09" },
+        { "path": "images/pixiv_hd_12.jpg", "caption": "?? 10" }
+      ]
+    },
+    {
+      "id": "video",
+      "no": "03",
+      "title": "????",
+      "sub": "Live Wallpaper",
+      "type": "gallery",
+      "items": [
+        { "path": "images/vid_1.jpg", "caption": "?? 01" },
+        { "path": "images/vid_3.jpg", "caption": "?? 02" },
+        { "path": "images/vid_4.jpg", "caption": "?? 03" },
+        { "path": "images/vid_5.jpg", "caption": "?? 04" },
+        { "path": "images/vid_8.jpg", "caption": "?? 05" }
+      ]
+    },
+    {
+      "id": "goods",
+      "no": "04",
+      "title": "?? / ??",
+      "sub": "Goods",
+      "type": "gallery",
+      "items": [
+        { "path": "images/goods_1.png", "caption": "?? 01" },
+        { "path": "images/goods_2.jpg", "caption": "?? 02" },
+        { "path": "images/goods_3.jpg", "caption": "?? 03" },
+        { "path": "images/goods_4.jpg", "caption": "?? 04" }
+      ]
+    }
+  ],
+  "socials": [
+    { "platform": "Bilibili ??", "icon": "??", "url": "https://space.bilibili.com/86471108", "desc": "UID 86471108 � 2.1???" },
+    { "platform": "Bilibili ???", "icon": "??", "url": "https://live.bilibili.com/3790472", "desc": "??? 3790472" },
+    { "platform": "Pixiv ??", "icon": "??", "url": "https://www.pixiv.net/users/36966416", "desc": "ID 36966416 � ?? 213" },
+    { "platform": "Twitter / X", "icon": "??", "url": "https://x.com/Ayatsuki_Nora", "desc": "@Ayatsuki_Nora" },
+    { "platform": "?????", "icon": "??", "url": "https://ayatsukinora.moeyuki.works/", "desc": "ayatsukinora.moeyuki.works" }
+  ],
+  "theme": "lavender",
+  "lavender": {
+    "primary": "#9d7bd6",
+    "primaryDark": "#7a5bc0",
+    "primaryLight": "#c9b6ef",
+    "bgStart": "#fbf7ff",
+    "bgEnd": "#f3ecfa",
+    "ink": "#3a3357",
+    "inkSoft": "#6f6790"
+  },
+  "emojiTheme": {
+    "rows": 6,
+    "baseAngle": 0,
+    "angleVariance": 12,
+    "speed": 0.3,
+    "direction": "alternate",
+    "emojiSize": 72,
+    "opacity": 0.9,
+    "bgColor": "#1a1028"
+  },
+  "lastUpdate": "2026-07-16"
 }
